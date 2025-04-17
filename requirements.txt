@@ -1,0 +1,7 @@
+django
+python-dotenv
+langchain
+langchain-community
+faiss-cpu
+PyMuPDF
+google-generativeai
